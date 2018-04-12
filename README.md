@@ -33,7 +33,7 @@ rectangle="1"を指定すると、指定したwidth, heightでトリミング（
 
 画像のサムネイルの高さを指定値 (px) でトリミング（中央寄せ）します。元画像のサイズより大きな値を指定した場合は、元画像サイズの値となります。
 
-"rectangle"モディフィアを指定しない場合に利用可能なモディフィアについては、「MTAssetThumbnailLink（https://www.movabletype.jp/documentation/appendices/tags/assetthumbnaillink.html）」を参照してください。
+"rectangle"モディフィアを指定しない場合に利用可能なモディフィアについては、「MTAssetThumbnailLink（ https://www.movabletype.jp/documentation/appendices/tags/assetthumbnaillink.html ）」を参照してください。
 
 ---
 
@@ -72,4 +72,4 @@ rectangle="1"を指定すると、指定したwidth, heightでトリミング（
 
 画像のサムネイルの高さを指定値 (px) でトリミング（中央寄せ）します。元画像のサイズより大きな値を指定した場合は、元画像サイズの値となります。
 
-"rectangle"モディフィアを指定しない場合に利用可能なモディフィアについては、「MTAssetThumbnailUrl（https://www.movabletype.jp/documentation/appendices/tags/assetthumbnailurl.html）」を参照してください。
+"rectangle"モディフィアを指定しない場合に利用可能なモディフィアについては、「MTAssetThumbnailUrl（ https://www.movabletype.jp/documentation/appendices/tags/assetthumbnailurl.html ）」を参照してください。
