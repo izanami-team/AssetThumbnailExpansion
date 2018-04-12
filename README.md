@@ -1,4 +1,4 @@
-# AssetThumbnailRectangleLink
+# AssetThumbnailExpansionLink
 「MTAssetThumbnailLink」を拡張したサムネイル画像出力タグです。  
 "rectangle"モディフィアを指定することで、width, height両方をサイズ指定してサムネイル画像を作成することが出来ます。  
 なお、"rectangle"モディフィアを指定しない場合の挙動は、「MTAssetThumbnailLink」と同様です。
@@ -37,7 +37,7 @@ rectangle="1"を指定すると、指定したwidth, heightでトリミング（
 
 ---
 
-# AssetThumbnailRectangleUrl
+# AssetThumbnailExpansionUrl
 「MTAssetThumbnailUrl」を拡張したサムネイル画像URL出力タグです。  
 "rectangle"モディフィアを指定することで、width, height両方をサイズ指定してサムネイル画像を作成することが出来ます。  
 なお、"rectangle"モディフィアを指定しない場合の挙動は、「MTAssetThumbnailUrl」と同様です。
