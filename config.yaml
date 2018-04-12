@@ -1,0 +1,12 @@
+id: AssetThumbnailExpansion
+key: AssetThumbnailExpansion
+name: "AssetThumbnailExpansion Plugin"
+version: 0.1
+description: <__trans phrase="_DESCRIPTION">
+author_name: "t-yokoyama"
+l10n_class: AssetThumbnailExpansion::L10N
+tags:
+    function:
+        AssetThumbnailExpansionUrl: $AssetThumbnailExpansion::AssetThumbnailExpansion::Tags::_hdlr_asset_thumbnail_expansion_url
+        AssetThumbnailExpansionLink: $AssetThumbnailExpansion::AssetThumbnailExpansion::Tags::_hdlr_asset_thumbnail_expansion_link
+ 
